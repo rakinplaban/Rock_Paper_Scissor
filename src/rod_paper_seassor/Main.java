@@ -9,7 +9,7 @@ public class Main {
 		// System.out.print("Hello World! Checking phase!");
 		try {
 			int term_selection, i = 0;
-			System.out.println("Please enter an integer to choose number of terms");
+			System.out.print("Please enter an integer to choose number of terms");
 			Scanner input = new Scanner(System.in);
 			term_selection = input.nextInt();
 			System.out.println("You entered: "+term_selection);
