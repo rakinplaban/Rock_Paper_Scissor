@@ -26,18 +26,25 @@ public class Game {
 			System.out.println();
 		}
 		if(bot_term == 0 && this.term == 1) {
+			System.out.println("You win");
 			player_score++;
 		}else if(bot_term == 0 && this.term == 2) {
+			System.out.println("I win");
 			bot_score++;
 		}else if(bot_term == 1 && this.term == 2) {
+			System.out.println("You win");
 			player_score++;
 		}else if(bot_term == 1 && this.term == 0) {
+			System.out.println("I win");
 			bot_score++;
 		}else if(bot_term == 2 && this.term == 0) {
+			System.out.println("You win");
 			player_score++;
 		}else if(bot_term == 2 && this.term == 1) {
+			System.out.println("I win");
 			bot_score++;
 		}else {
+			System.out.println("You're fined!😂");
 			player_score--;
 		}
 	}
