@@ -4,7 +4,7 @@ Rock paper scissors (also known by several other names and word orders, see § N
 
 A simultaneous, zero-sum game, has three possible outcomes: a draw, a win, or a loss. A player who decides to play rock will beat another player who chooses scissors ("rock crushes scissors" or "breaks scissors" or sometimes "blunts scissors"[1]), but will lose to one who has played paper ("paper covers rock"); a play of paper will lose to a play of scissors ("scissors cuts paper"). If both players choose the same shape, the game is tied and is usually replayed to break the tie.
 
-Rock paper scissors are often used as a fair choosing method between two people, similar to coin flipping, drawing straws, or throwing dice in order to settle a dispute or make an unbiased group decision. Unlike truly random selection methods, however, rock paper scissors can be played with some degree of skill by recognizing and exploiting non-random behaviour in opponents.
+Rock paper scissors are often used as a fair choosing method between two people, similar to coin flipping, drawing straws, or throwing dice in order to settle a dispute or make an unbiased group decision. Unlike truly random selection methods, however, rock paper scissors can be played with some degree of skill by recognizing and exploiting non-random behaviour in opponents.[1]
 
 [wikipedia](https://en.wikipedia.org/wiki/Rock_paper_scissors)
 
@@ -47,14 +47,14 @@ java rod_paper_seassor.Main
 Any other number for a negative marking (invalid input)
 After all rounds are completed, the program will announce the winner based on the scores.
 
-Code Structure
+### Code Structure
 
   Game.java:
       Contains the Game class which handles the core game logic, including random computer choices, determining the winner for each round, and keeping score.
   Main.java:
       Contains the Main class with the main method, which handles user input and initiates the game rounds.
 
-Example
+### Example
 
 
 Please enter an integer to choose a number of terms
@@ -73,7 +73,7 @@ Draw!
 I win
 Sorry, you lost the game!
 
-Contributing
+### Contributing
 
 If you'd like to contribute to the project, feel free to fork the repository and submit a pull request with your changes.
 License
@@ -85,3 +85,6 @@ Acknowledgements
   Thanks to the open-source community for providing valuable resources and support.
 
 Enjoy playing Rock-Paper-Scissors! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
+### Reference
+1. Rock paper scissors. (2024, May 23). In Wikipedia. https://en.wikipedia.org/wiki/Rock_paper_scissors
