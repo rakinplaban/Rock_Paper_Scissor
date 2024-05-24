@@ -73,7 +73,7 @@ Other--- Negative marking<br>
 If you'd like to contribute to the project, feel free to fork the repository and submit a pull request with your changes.
 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/smirk235/Rock_Paper_Scissor/blob/License-and-readme/LICENSE) - see the LICENSE file for details.
 Acknowledgements
 
   This project was inspired by the classic Rock-Paper-Scissors game.
