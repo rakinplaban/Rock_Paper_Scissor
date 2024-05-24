@@ -57,21 +57,16 @@ After all rounds are completed, the program will announce the winner based on th
 ### Example
 
 
-Please enter an integer to choose a number of terms
-3
-You entered: 3
-Choose any one of them
-0----- Rock
-1----- Paper
-2----- Scissors
-Other--- Negative marking
-0
-You win
-1
-Draw!
-2
-I win
-Sorry, you lost the game!
+Please enter an integer to choose a number of terms<br>
+3<br>
+You entered: 3<br>
+Choose any one of them<br>
+0----- Rock<br>
+1----- Paper<br>
+2----- Scissors<br>
+Other--- Negative marking<br>
+
+
 
 ### Contributing
 
